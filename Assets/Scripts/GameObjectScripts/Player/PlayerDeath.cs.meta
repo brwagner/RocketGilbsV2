@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 0a9ba81e1ecfa4f4fb92d89902130983
+timeCreated: 1429374065
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - deathPrefab: {fileID: 100000, guid: b649fd04b6681412282345c21641a538, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
