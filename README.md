@@ -1,2 +1,2 @@
 # RocketGilbsV2
-Updated remake in unity 3d
+Remake of RocketGilbs game in Unity. Use mouse to select on-screen options. In-game tutorial explains controls.
